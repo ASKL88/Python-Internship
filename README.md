@@ -4,6 +4,7 @@ Introduction:
 
 As part of my internship for Prosper IT Consulting, I was part of a two week sprint, working in PyCharm on a Python Live project. This was an individual web application project focusing on a hobby or subject that interested the user. I worked with creating Models, Views, URLs, and front-end templates. My website was a database of soccer players and statistics. 
 
+![Soccererimage](/soccer2.PNG?raw=true "Optional Title")     
 
 Front-End Templates:
 
@@ -67,7 +68,8 @@ SoccerApp_index.html:
       </table>
 
       {% endblock %}
-
+      
+![Soccererimage](/soccer3.PNG?raw=true "Optional Title") 
 
 SoccerApp_navbar.html
 
